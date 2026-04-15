@@ -65,7 +65,8 @@ Buat simulasi berikut:
 
 ## Kelompok 3
 Tambahkan nama anggota kelompok di sini:
--Raddin Pratama Rachmat
+ 
+- Raddin Pratama Rachmat
 - David Alif
 - Dafa Agasya
 - Deff Rasya Islami
